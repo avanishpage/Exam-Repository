@@ -14,6 +14,7 @@ public class Add3Numbers {
 		
 		System.out.println("the sum of 3 numbers is : "+(no1+no2+no3));
 		
+		System.out.println("the average of 3 numbers is : "+((no1+no2+no3)/3));
 
 	}
 
